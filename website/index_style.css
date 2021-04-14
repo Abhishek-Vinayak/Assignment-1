@@ -1,3 +1,26 @@
 nav{
-    color: red;
+    /* background-color: #fafbfe; */
+    background-color: #fafbfe;;
+    width:100%;
+    min-height:50px;
+    
+    position:absolute;
+    top: 0px;
+    left: 0px;
+}
+.nav-logo{
+    vertical-align:middle;
+    min-width: 190px;
+    margin-left:120px;
+    margin-top: 6px;
+    display:flex;
+}
+.topnav-category a{
+    display:inline;
+    position: static;
+    padding: 20px;
+    text-decoration: none;
+    font-weight: 400;
+    font-family: cocogoose ,sans-serif;
+    line-height:30px;
 }
