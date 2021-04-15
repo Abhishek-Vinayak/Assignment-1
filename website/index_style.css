@@ -1,5 +1,5 @@
 nav{
-    /* background-color: #fafbfe; */
+    background-color: #fafbfe; 
     background-color: #fafbfe;;
     width:100%;
     min-height:50px;
@@ -19,12 +19,25 @@ nav{
     display:inline;
     position: static;
     padding: 20px;
-    text-decoration: none;
+    text-decoration: none; 
     font-weight: 400;
     font-family: cocogoose ,sans-serif;
     line-height:35px;
     color:#6c757d;
 }
+.topnav-call{
+    padding-right:190px; 
+}
+.topnav-list{
+    list-style: none;
+    display: inline-flex;
+    
+}
 a.active{
     color:#cd007a;
+}
+.lang
+{
+    text-decoration:none;
+    text-decoration-style: none;
 }
