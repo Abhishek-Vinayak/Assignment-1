@@ -1,0 +1,10 @@
+img{
+    vertical-align: middle;
+    border-style: none;
+}
+.topnav-navbar .topnav-logo{
+    line-height: 50px;
+    float: left;
+    padding-right: 20px;
+    min-width: 60px;
+}
